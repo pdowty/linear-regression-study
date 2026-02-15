@@ -1,0 +1,15 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user
+2025_linear_regression_issues.Rproj
+
+# these folders retained but all contents ignored
+output_animations/*
+!output_animations/.gitkeep
+regression_demo1_graphs/*
+!regression_demo1_graphs/.gitkeep
+social_demo_graphs/*
+!social_demo_graphs/.gitkeep
+2025_linear_regression_issues.Rproj
+
