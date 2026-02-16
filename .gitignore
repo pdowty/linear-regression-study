@@ -3,6 +3,7 @@
 .Rhistory
 .Rproj.user
 2025_linear_regression_issues.Rproj
+2025_linear_regression_issues_Mini.Rproj
 
 # these folders retained but all contents ignored
 output_animations/*
