@@ -4,7 +4,7 @@
 #
 #  This code outputs 4 image (png) files each with three graphs arranged
 #  horizontally. The intent is these are stacked vertically to make a grid
-#  of graphs.
+#  of graphs, e.g. in Powerpoint.
 #
 #  February 2026
 #
